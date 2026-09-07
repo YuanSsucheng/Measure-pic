@@ -1,0 +1,6 @@
+{
+  "name": "图片尺寸测量工具",
+  "description": "导入PNG、JPG、JPEG等各类静态图片，通过已知线段标定比例尺，精准测量图中任意物体的实际距离与尺寸。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
